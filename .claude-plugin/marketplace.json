@@ -1,0 +1,29 @@
+{
+  "name": "unfunco-copilot-plugins",
+  "description": "Claude Code plugins for Daniel Morris.",
+  "owner": {
+    "name": "Daniel Morris",
+    "email": "unfunco@github.com"
+  },
+  "metadata": {
+    "version": "0.0.0"
+  },
+  "plugins": [
+    {
+      "name": "unfunco",
+      "description": "Custom agents and skills by Daniel Morris.",
+      "source": {
+        "source": "github",
+        "repo": "unfunco/ai"
+      }
+    },
+    {
+      "name": "els",
+      "description": "Custom agents and skills by Daniel Morris for use in GitHub Expert and Learning Services.",
+      "source": {
+        "source": "github",
+        "repo": "unfunco/els"
+      }
+    }
+  ]
+}
