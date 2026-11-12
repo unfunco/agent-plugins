@@ -1,6 +1,6 @@
 {
-  "name": "unfunco-copilot-plugins",
-  "description": "Claude Code plugins for Daniel Morris.",
+  "name": "unfunco-agent-plugins",
+  "description": "Agent plugins for Daniel Morris.",
   "owner": {
     "name": "Daniel Morris",
     "email": "unfunco@github.com"

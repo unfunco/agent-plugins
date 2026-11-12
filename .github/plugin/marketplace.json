@@ -1,11 +1,11 @@
 {
-  "name": "unfunco-copilot-plugins",
+  "name": "unfunco-agent-plugins",
   "owner": {
     "name": "Daniel Morris",
     "email": "unfunco@github.com"
   },
   "metadata": {
-    "description": "Copilot plugins for Daniel Morris.",
+    "description": "Agent plugins for Daniel Morris.",
     "version": "0.0.0"
   },
   "plugins": [

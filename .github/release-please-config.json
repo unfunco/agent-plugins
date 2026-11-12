@@ -25,6 +25,11 @@
           "type": "json",
           "path": ".github/plugin/marketplace.json",
           "jsonpath": "$.metadata.version"
+        },
+        {
+          "type": "json",
+          "path": ".claude-plugin/marketplace.json",
+          "jsonpath": "$.metadata.version"
         }
       ],
       "extra-label": "automata 🤖,autorelease: pending,chore 🧹",
