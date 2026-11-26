@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.1](https://github.com/unfunco/agent-plugins/compare/v0.1.0...v0.1.1) (2026-11-26)
+
+
+### 🧹 Miscellaneous
+
+* Standardise changelog emoji sections ([#9](https://github.com/unfunco/agent-plugins/issues/9)) ([1521e12](https://github.com/unfunco/agent-plugins/commit/1521e12f8461d7ff9635681c3af80c0678042a61))
+
 ## 0.1.0 (2026-11-12)
 
 
